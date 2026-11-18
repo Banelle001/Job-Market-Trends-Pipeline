@@ -1,0 +1,5 @@
+dlt[duckdb]==1.6.1
+duckdb==1.2.1
+streamlit==1.43.0
+pandas==2.2.3
+plotly==6.0.0
